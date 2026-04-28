@@ -2,7 +2,7 @@
 
 This folder contains the data files used to support the numerical simulations and figures in the manuscript.
 The data are organized into six main datasets:
-1. **planned_paths_planar.mat**  
+1. **planned_paths_planar**  
    Path planning results in the planar coordinate system for GA, PSO, GAPSO, and Improved-GAPSO, including both continuous path points and waypoint nodes.
 2. **geo_projected_obstacles.mat**  
    Obstacle and region boundary data obtained by projecting real geographic coordinates into the planar coordinate system.
